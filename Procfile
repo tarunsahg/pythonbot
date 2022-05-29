@@ -1,1 +1,1 @@
-worker: python bot.py
+worker: NodeJs Job.js
